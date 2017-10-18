@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build
+END
+vue-loader.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build/vue-loader.conf.js
+END
+webpack.base.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build/webpack.base.conf.js
+END
+dev-client.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build/dev-client.js
+END
+webpack.dev.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build/webpack.dev.conf.js
+END
+webpack.test.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build/webpack.test.conf.js
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build/build.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build/utils.js
+END
+dev-server.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build/dev-server.js
+END
+check-versions.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build/check-versions.js
+END
+webpack.prod.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/build/webpack.prod.conf.js
+END

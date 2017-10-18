@@ -1,0 +1,161 @@
+10
+
+dir
+17352
+http://svn.hirain.com/projectnew/IOV_PLATFORM/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage
+http://svn.hirain.com/projectnew/IOV_PLATFORM
+
+
+
+2017-09-01T09:54:50.908717Z
+16158
+bo.zhou1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fee07197-4673-47c9-8c02-558bbaf1b0a1
+
+jobScheduling
+dir
+
+orderManage
+dir
+
+resourceDocument
+dir
+
+menuAuth
+dir
+
+userManage
+dir
+
+dashBoard
+dir
+
+wiManage
+dir
+
+deviceFaultProcess
+dir
+
+userGroup
+dir
+
+workCenterManage
+dir
+
+procedureDefinition
+dir
+
+index.vue
+file
+
+
+
+
+2017-10-13T08:09:26.155145Z
+a9f9de85cbc7adb410a8c57121f1dc71
+2017-07-31T07:04:33.184390Z
+14987
+yue.hao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+354
+
+deviceManage
+dir
+
+workforceManage
+dir
+
+deviceAccessory
+dir
+
+menuManage
+dir
+
+siteManage
+dir
+
+factoryManage
+dir
+
+deviceConfig
+dir
+
+bomManage
+dir
+
+shiftManage
+dir
+
+workOrderManage
+dir
+
+productLine
+dir
+
+productManage
+dir
+
+deviceFault
+dir
+
+productionManage
+dir
+
+productLineManage
+dir
+
+productAttribute
+dir
+
+ruleBOM
+dir
+
+roleManage
+dir
+
+technologyDocument
+dir
+
+workOrderBom
+dir
+
+productBom
+dir
+
+deviceException
+dir
+

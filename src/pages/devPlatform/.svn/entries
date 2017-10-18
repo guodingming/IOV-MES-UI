@@ -1,0 +1,155 @@
+10
+
+dir
+17352
+http://svn.hirain.com/projectnew/IOV_PLATFORM/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/devPlatform
+http://svn.hirain.com/projectnew/IOV_PLATFORM
+
+
+
+2017-09-01T08:24:25.911726Z
+16147
+wei.fan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fee07197-4673-47c9-8c02-558bbaf1b0a1
+
+label
+dir
+
+packBoxManager
+dir
+
+repairStation
+dir
+
+platform
+dir
+
+formDesigner
+dir
+
+function
+dir
+
+palletPackageManager
+dir
+
+productPackage
+dir
+
+formManager
+dir
+
+serviceDev
+dir
+
+processConfig
+dir
+
+packConfig
+dir
+
+index.vue
+file
+
+
+
+
+2017-10-13T08:09:15.428055Z
+9456785a143d80b080449111137893f4
+2017-07-31T07:04:33.184390Z
+14987
+yue.hao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+358
+
+templateManager
+dir
+
+serviceMonitor
+dir
+
+assemblyManager
+dir
+
+prodLine
+dir
+
+sourceMaterial
+dir
+
+userLog
+dir
+
+systemLog
+dir
+
+agentManager
+dir
+
+logManage
+dir
+
+javaManage
+dir
+
+groovyManage
+dir
+
+barCode
+dir
+
+productCraft
+dir
+
+service
+dir
+
+dictionary
+dir
+
+object
+dir
+
+palletManager
+dir
+
+procedureConfig
+dir
+
+craftRoute
+dir
+

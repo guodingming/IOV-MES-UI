@@ -1,0 +1,137 @@
+10
+
+dir
+17352
+http://svn.hirain.com/projectnew/IOV_PLATFORM/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/querySys
+http://svn.hirain.com/projectnew/IOV_PLATFORM
+
+
+
+2017-07-31T07:04:33.184390Z
+14987
+yue.hao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fee07197-4673-47c9-8c02-558bbaf1b0a1
+
+workOrderProduct
+dir
+
+svnInfo
+dir
+
+deviceLedger
+dir
+
+matchQuery
+dir
+
+prodLot
+dir
+
+prodDailyReport
+dir
+
+materialUsage
+dir
+
+deviceUsage
+dir
+
+prodBarCode
+dir
+
+frockLedger
+dir
+
+finishedWorkOrder
+dir
+
+frockUsage
+dir
+
+prodTestQuery
+dir
+
+prodQuery
+dir
+
+packInfo
+dir
+
+rawMaterialQuery
+dir
+
+prodDefectiveInfo
+dir
+
+erpMaterialCode
+dir
+
+tools
+dir
+
+postSaleManage
+dir
+
+nonFinishedWorkOrder
+dir
+
+index.vue
+file
+
+
+
+
+2017-10-13T08:09:19.300135Z
+e2f981db75dc25347d4e6b48fc5be5c9
+2017-07-31T07:04:33.184390Z
+14987
+yue.hao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+352
+
+deviceInfo
+dir
+
+erpQuery
+dir
+
+passedWorkOrder
+dir
+
+workOrder
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/config
+END
+dev.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/config/dev.env.js
+END
+test.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/config/test.env.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/config/index.js
+END
+prod.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/config/prod.env.js
+END

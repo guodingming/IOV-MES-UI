@@ -1,0 +1,47 @@
+[{
+	"name": "基础插件",
+	"icon": "base.png",
+	"children": [{
+			"id": "cursor",
+			"name": "选择指针",
+			"icon": "base-cursor.png"
+		},
+		{
+			"id": "direct",
+			"name": "节点连线",
+			"icon": "base-line.png"
+		},
+		{	"id": "base_start",
+			"name": "开始",
+			"icon": "base-start.png"
+			
+		},
+		{
+			"id": "base_end",
+			"name": "结束",
+			"icon": "base-end.png"
+		}
+	]
+},{
+	"name": "工序插件",
+	"icon": "process.png",
+	"children": [{
+			"id": "process_lowTemp",
+			"name": "低温测试",
+			"icon": "lowTemp.png",
+			
+			"processId":"03A01351546D40B58C0007927A8EC1D4",
+			"processCode":"00000006",
+			"class":"com.mes.control.workflow.LowTemp"
+		},
+		{
+			"id": "process_highTemp",
+			"name": "高温测试",
+			"icon": "process-highTemp.png",
+			
+			"processId":"7502DE98438A4392A1AD55F78210D427",
+			"processCode":"00000005",
+			"class":"com.mes.control.workflow.HighTemp"
+		}
+	]
+}]

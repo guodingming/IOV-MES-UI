@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage/siteManage
+END
+create.vue
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage/siteManage/create.vue
+END
+treeCreate.vue
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage/siteManage/treeCreate.vue
+END
+edit.vue
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage/siteManage/edit.vue
+END
+treeEdit.vue
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage/siteManage/treeEdit.vue
+END
+index.vue
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage/siteManage/index.vue
+END
+area.vue
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage/siteManage/area.vue
+END
+areaCreate.vue
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage/siteManage/areaCreate.vue
+END
+service.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage/siteManage/service.js
+END
+areaEdit.vue
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projectnew/IOV_PLATFORM/!svn/ver/16202/source/IOV-Mes5.0/tags/20170901/src/IOV-MES-UI/src/pages/sysManage/siteManage/areaEdit.vue
+END
